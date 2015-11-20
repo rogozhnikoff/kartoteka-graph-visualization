@@ -1,0 +1,18 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "",
+  "main": "graph.js",
+  "dependencies": {
+    "bootstrap": "^3.3.5",
+    "lodash": "^3.10.1",
+    "d3": "^3.5.9",
+    "jquery": "^2.1.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
